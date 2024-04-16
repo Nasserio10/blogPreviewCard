@@ -10,7 +10,7 @@ body{
 .blog{
   display: flex;
   align-items: center;
-  /* justify-content: center; */
+  justify-content: center;
   height: 100vh;
     }
 .Published {
@@ -36,7 +36,7 @@ body{
   margin-bottom: 10px;
 }
 .container{
-  padding: 12px;
+  padding: 15px;
   margin: 50px auto 50px auto;
   display: flex;
   flex-direction: column;
