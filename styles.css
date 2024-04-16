@@ -39,9 +39,9 @@ body{
   padding: 12px;
   margin: 50px auto 50px auto;
   display: flex;
-  align-items: left;
   flex-direction: column;
-  /* justify-content: center; */
+  align-items: left;
+  justify-content: center;
   background-color: white;
   border: 1px solid black;
   line-height: 3;
